@@ -25,23 +25,3 @@ body {
 span {
     background-color: blueviolet;
 }
-
-.sessao-Inicial{
-    text-align: center;
-    width:70% ;
-    background-color: #d1e8e2;
-    border-radius: 5px;
-    border: 3px solid rgb(33, 4, 97);
-    padding: 2rem;
-    margin-top: 20px;
-}
-
-.sessao-introducao{
-    width:70% ;
-    height:70% ;
-    background-color: #d1e8e2;
-    border-radius: 5px;
-    border: 3px solid rgb(33, 4, 97);
-    padding: 2rem;
-    margin-top: 20px;
-}
