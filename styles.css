@@ -8,20 +8,24 @@ body {
     background-color: rgb(214, 200, 200);
     font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: large;
-    /* maximo da pag lateral*/
-    max-width: 100%; 
-    /* compriment */
-    height: 100vh;
-    /* elementos livres */
-    display:flex;
-    /* justificar elemento */
-    justify-content: start;
-    align-items: center;
-    flex-direction: column;
-    padding-top: 20px;
-    padding-bottom: 20px;
+    
 }
 
 span {
     background-color: blueviolet;
+}
+
+.sessao-hero {
+    height: 300px;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    background-image: url("/assets/tft-01.png");
+}
+
+.texto-hero{
+    color: white;
+    margin-top: 50px;
 }
