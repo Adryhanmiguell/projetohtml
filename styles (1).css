@@ -1,0 +1,129 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #2E2E3A; 
+    font-family:'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: large;
+    justify-content: center;
+    margin: auto;
+    max-width: 70rem;
+    color: white; 
+}
+
+span {
+    background-color: #4A1E8A; 
+    color: white;
+    padding: 2px 6px;
+    border-radius: 3px;
+}
+
+h2{
+    text-align: center;
+    color: #FFD166; 
+}
+
+.sessao-hero {
+    height: 300px;
+    max-width: 100%;
+    justify-content: center;
+    text-align: center;
+    margin: 0 auto;
+    display: flex;
+    background-image: url("/assets/tft-01.png");
+    background-color: #4A1E8A; 
+    padding: 2rem;
+    padding-top: 2rem;
+    padding-bottom: 20px;
+    
+}
+
+.texto-hero{
+    color: #9c9b99; 
+    margin-top: 50px;
+    text-shadow: 1px 1px 2px #2E2E3A; 
+}
+
+.sessao-Introducao{
+    background-color: #4A1E8A; 
+    margin-bottom: 20px;
+    padding: 1.5rem;
+    color: white;
+}
+
+.sessao-Metas{
+    width: auto;
+    background-color: #2E2E3A; 
+    margin-bottom: 20px;
+    padding: 1rem;
+}
+
+.metas-Main{
+    height: 100%;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 2rem;
+    flex-direction: row;
+    column-gap: 40px;
+}
+
+.Samira{
+    background-color: #4A1E8A; 
+    max-width: auto;
+    border: 3px solid #E83F93;
+    border-radius: 8px;
+    padding: 1rem;
+    color: white;
+}
+
+.karma-Mech{
+    background-color: #4A1E8A; 
+    max-width: auto;
+    border: 3px solid #FFD166; 
+    padding: 1rem;
+    color: white;
+}
+
+.kog-Maw{
+    background-color: #4A1E8A; 
+    height: auto;
+    max-width: auto;
+    border: 3px solid #EF2D56; 
+    padding: 1rem;
+    color: white;
+}
+
+.sessao-Meta-link{
+    background-color: #6e4258;
+    margin-bottom: 20px;
+    padding: 1.5rem;
+    text-align: center;
+}
+
+.sessao-Meta-link  {
+    color: #FFD166;
+    text-decoration: none;
+    font-weight: bold;
+}
+
+.sessao-Meta-link {
+    color: #EF2D56;
+}
+
+.sessao-Streamers{
+    background-color: #2E2E3A; 
+    padding: 1.5rem;
+    color: white;
+}
+
+.sessao-Rda-Pe{
+    background-color: #852e59;
+    padding: 2rem;
+}
+
+
+
